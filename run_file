@@ -1,0 +1,2 @@
+docker build -t neural_adr .
+docker run --gpus all --shm-size=8g -p 8888:8888 -v .:/app neural_adr

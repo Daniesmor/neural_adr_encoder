@@ -1,0 +1,8 @@
+jupyter
+matplotlib
+pandas
+seaborn
+scikit-learn
+numpy==1.26.4
+plotly==5.23.0
+tqdm
